@@ -1,0 +1,11 @@
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\CardinalToOrdinalConversion\CardinalToOrdinalConversion.Tests\bin\Debug\CardinalToOrdinalConversion.Tests.dll
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\CardinalToOrdinalConversion\CardinalToOrdinalConversion.Tests\bin\Debug\CardinalToOrdinalConversion.Tests.pdb
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\CardinalToOrdinalConversion\CardinalToOrdinalConversion.Tests\bin\Debug\CardinalToOrdinalConversion.dll
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\CardinalToOrdinalConversion\CardinalToOrdinalConversion.Tests\bin\Debug\nunit.framework.dll
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\CardinalToOrdinalConversion\CardinalToOrdinalConversion.Tests\bin\Debug\Rhino.Mocks.dll
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\CardinalToOrdinalConversion\CardinalToOrdinalConversion.Tests\bin\Debug\CardinalToOrdinalConversion.pdb
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\CardinalToOrdinalConversion\CardinalToOrdinalConversion.Tests\bin\Debug\nunit.framework.xml
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\CardinalToOrdinalConversion\CardinalToOrdinalConversion.Tests\bin\Debug\Rhino.Mocks.xml
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\CardinalToOrdinalConversion\CardinalToOrdinalConversion.Tests\obj\Debug\CardinalToOrdinalConversion.Tests.csprojResolveAssemblyReference.cache
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\CardinalToOrdinalConversion\CardinalToOrdinalConversion.Tests\obj\Debug\CardinalToOrdinalConversion.Tests.dll
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\CardinalToOrdinalConversion\CardinalToOrdinalConversion.Tests\obj\Debug\CardinalToOrdinalConversion.Tests.pdb

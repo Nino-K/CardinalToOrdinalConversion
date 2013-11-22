@@ -1,0 +1,4 @@
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\CardinalToOrdinalConversion\CardinalToOrdinalConversion\bin\Debug\CardinalToOrdinalConversion.dll
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\CardinalToOrdinalConversion\CardinalToOrdinalConversion\bin\Debug\CardinalToOrdinalConversion.pdb
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\CardinalToOrdinalConversion\CardinalToOrdinalConversion\obj\Debug\CardinalToOrdinalConversion.dll
+C:\Users\nkhodabandeh\Documents\Visual Studio 2012\Projects\CardinalToOrdinalConversion\CardinalToOrdinalConversion\obj\Debug\CardinalToOrdinalConversion.pdb
